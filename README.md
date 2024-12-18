@@ -1,4 +1,4 @@
-# 👋 Welcome to ABDELBASST's GitHub!
+# 👋 Welcome to ABDELBASST
 
 ## 🧑‍💻 About Me
 Hi there! I'm Abdelbassit, a student passionate about technology and coding.  
@@ -19,10 +19,7 @@ Hi there! I'm Abdelbassit, a student passionate about technology and coding.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDELBASST&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
-- 💻 GitHub: [ABDELBASST](https://github.com/ABDELBASST)
+- 💻 GitHub: [ABDELBASST](https://github.com/ABDELBASSAT)
 - 🏆 LeetCode: [abdelbassat_00](https://leetcode.com/abdelbassat_00)
 
 ---
-
-### Fun Fact
-> “Simplicity is the soul of efficiency.” – Austin Freeman
