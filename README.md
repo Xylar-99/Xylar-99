@@ -21,7 +21,7 @@ I'm a passionate backend developer currently studying at **1337 School** (part o
 ```cpp
 class Developer {
 public:
-    std::string name = "Abdelbassit";
+    std::string name = "Abdelbassat";
     std::string school = "1337 (42 Network)";
     std::string focus = "Backend Development";
     std::vector<std::string> interests = {"System Programming", "Web Development", "DevOps"};
