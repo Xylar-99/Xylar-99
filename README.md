@@ -2,7 +2,13 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;1337+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=## 🌟 Featured Projects
+
+### 🔧 Backend Development
+- **RESTful APIs**: Scalable server-side services
+- **Database Design**: Efficient data modeling and queries
+- **Authentication Systems**: Secure user management solutions
+- **Microservices**: Distributed system architecture00&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;1337+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%F0%9F%9A%80)
 
 [![1337 School](https://img.shields.io/badge/1337_School-000000?style=for-the-badge&logo=42&logoColor=white)](#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/abdelbassat_00)
@@ -84,6 +90,26 @@ public:
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xylar-99&theme=tokyo-night&hide_border=true&area=true)
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Xylar-99/Xylar-99/output/github-contribution-grid-snake.svg)
+
+**351 contributions in the last year** 🚀
+
+</div>
+
+### 🚀 Recent Projects
+-  **42 Projects** - Ongoing curriculum projects at 1337 School
+- 🔧 **Backend APIs** - RESTful services and database integration
+- 📚 **Algorithm Practice** - Daily LeetCode problem solving
+- 🐳 **DevOps Tools** - Docker containerization and deployment
+
+---
+
 ## 🏆 1337 School Journey
 
 **1337 School** is part of the innovative **42 Network**, renowned for:
@@ -116,7 +142,14 @@ I regularly practice algorithmic problem-solving on **LeetCode** to sharpen my a
 
 ## 🌟 Featured Projects
 
-### 🔧 Backend Development
+### � Game Development
+- **Python Snake Game**: Classic snake game implementation using Pygame
+  - Object-oriented design with collision detection
+  - Score tracking and game state management
+  - Smooth gameplay with keyboard controls
+  - Clean, modular code structure
+
+### �🔧 Backend Development
 - **RESTful APIs**: Scalable server-side services
 - **Database Design**: Efficient data modeling and queries
 - **Authentication Systems**: Secure user management solutions
