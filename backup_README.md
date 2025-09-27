@@ -1,12 +1,12 @@
-# 👋 Hello, I'm ABDELBASSAT
+# 👋 Hello World! I'm ABDELBASSAT
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;1337+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;42+Network+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%F0%9F%9A%80)
 
 [![1337 School](https://img.shields.io/badge/1337_School-000000?style=for-the-badge&logo=42&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/abdelbassat_00)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xylar-99)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 **Backend Developer** | **1337 (42 Network) Student** | **Morocco 🇲🇦**
 
-I'm a passionate backend developer currently studying at **1337 School**, part of the prestigious **42 Network**. My programming journey is fueled by curiosity, problem-solving, and the relentless pursuit of clean, efficient code.
+I'm a passionate backend developer currently studying at **1337 School** (part of the prestigious **42 Network**). My journey in programming is driven by curiosity, problem-solving, and the continuous pursuit of clean, efficient code.
 
 ```cpp
 class Developer {
@@ -40,11 +40,11 @@ public:
 
 ## 🎯 Current Focus
 
-- 🏫 **1337 Student**: Mastering peer-to-peer learning methodology
-- 💻 **Backend Development**: Building robust server-side applications
-- 🧠 **Algorithm Practice**: Enhancing problem-solving skills daily
-- 🐳 **DevOps**: Exploring containerization and deployment strategies
-- 🌐 **Full-Stack Growth**: Expanding into modern web technologies
+- 🏫 **Studying at 1337**: Mastering the art of peer-to-peer learning
+- 💼 **Backend Development**: Building robust server-side applications
+- 🧠 **Algorithm Practice**: Sharpening problem-solving skills on LeetCode
+- 🐳 **DevOps Journey**: Exploring containerization with Docker
+- 🌐 **Full-Stack Skills**: Expanding into modern web technologies
 
 ---
 
@@ -84,19 +84,19 @@ public:
 
 ---
 
-## 🏆 1337 School Journey
+## 🏆 42 School Journey
 
-**1337 School** is part of the innovative **42 Network**, renowned for:
-- 📚 **Project-based learning** without traditional courses or teachers
+**1337 School** is part of the innovative **42 Network**, known for its:
+- 📚 **Project-based learning** with no courses or teachers
 - 🤝 **Peer-to-peer evaluation** system
 - 💻 **Hands-on coding** from day one
 - 🌍 **Global network** of students and alumni
 
-### Key Projects
-- **Libft**: Custom C library implementation
+### Key Projects & Skills
+- **Libft**: Building my own C library from scratch
 - **Get Next Line**: File reading and memory management
 - **Born2beRoot**: System administration and security
-- **So Long**: 2D game development with graphics
+- **So Long**: 2D game development
 - **Push Swap**: Algorithm optimization and sorting
 - **Minishell**: Unix shell implementation
 
@@ -110,40 +110,47 @@ public:
 
 </div>
 
-I regularly practice algorithmic problem-solving on **LeetCode** to sharpen my analytical thinking and coding efficiency. Each challenge is an opportunity to explore different approaches and optimize solutions.
+I regularly practice algorithmic problem-solving on **LeetCode** to sharpen my analytical thinking and coding efficiency. Each problem is an opportunity to explore different approaches and optimize solutions.
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔧 Backend Development
-- **RESTful APIs**: Scalable server-side services
+### 🔧 Backend Projects
+- **RESTful APIs**: Building scalable backend services
 - **Database Design**: Efficient data modeling and queries
-- **Authentication Systems**: Secure user management solutions
+- **Authentication Systems**: Secure user management
 - **Microservices**: Distributed system architecture
 
 ### 🌐 Web Development
 - **Full-Stack Applications**: Complete web solutions
-- **Responsive Design**: Mobile-first development approach
+- **Responsive Design**: Mobile-first approach
 - **Modern JavaScript**: ES6+ features and best practices
-- **Frontend Frameworks**: React and Vue.js exploration
+- **Frontend Frameworks**: Exploring React and Vue.js
 
 ### 🐳 DevOps & Infrastructure
-- **Containerization**: Docker for development environments
+- **Containerization**: Docker for consistent environments
 - **CI/CD Pipelines**: Automated deployment workflows
-- **Cloud Services**: AWS deployment strategies
-- **Monitoring**: Application performance optimization
+- **Cloud Services**: AWS and deployment strategies
+- **Monitoring**: Application performance and logging
 
 ---
 
-## 🎯 Goals for 2025
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🎯 Goals for 2024-2025
 
 - ✅ **Complete 42 Common Core** curriculum
 - 🎯 **Master Backend Technologies**: Node.js, Python, databases
 - 🚀 **Build Production-Ready Projects**: Deploy real-world applications
 - 🤝 **Contribute to Open Source**: Give back to the community
-- 📚 **Learn Cloud Technologies**: AWS, Azure, Google Cloud
-- 🏆 **Solve 300+ LeetCode Problems**: Enhance algorithmic thinking
+- 📚 **Learn Cloud Technologies**: AWS, Azure, or Google Cloud
+- 🏆 **Solve 200+ LeetCode Problems**: Improve algorithmic thinking
 
 ---
 
@@ -152,6 +159,7 @@ I regularly practice algorithmic problem-solving on **LeetCode** to sharpen my a
 I'm always excited to connect with fellow developers, 42 students, and tech enthusiasts!
 
 <div align="center">
+
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoqoubai@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](http://abquaoub.me/)
@@ -164,10 +172,10 @@ I'm always excited to connect with fellow developers, 42 students, and tech enth
 
 > *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
 
-At **1337**, I've discovered that the best way to grow as a developer is through:
+At **1337**, I've learned that the best way to grow as a developer is through:
 - 🤝 **Collaboration**: Learning from peers and sharing knowledge
 - 🔍 **Curiosity**: Always asking "how" and "why"
-- 💪 **Persistence**: Debugging until solutions emerge
+- 💪 **Persistence**: Debugging until the solution emerges
 - 📖 **Continuous Learning**: Technology evolves, and so must we
 
 ---
