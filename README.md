@@ -63,21 +63,9 @@ public:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xylar-99&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-## 🐍 Contribution Snake Game
-
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Xylar-99/Xylar-99/output/github-contribution-grid-snake.svg)
-
-**🎮 Nokia Snake Style - Eating commits like a classic game!** 
+![Snake animation](https://github.com/Xylar-99/Xylar-99/blob/output/github-contribution-grid-snake.svg)
 
 **351 contributions in the last year** 🚀
-
-*Just like the classic Nokia 3310 snake game, but with GitHub commits!*
 
 </div>
 
