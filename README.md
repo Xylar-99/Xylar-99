@@ -13,9 +13,31 @@
 
 ## 🚀 About Me
 
-**Backend Developer** | **1337 (42 Network) Student** | **Morocco 🇲��**
+**Backend Developer** | **1337 (42 Network) Student** | **Morocco 🇲🇦**
 
 I'm a passionate backend developer studying at **1337 School**, part of the prestigious **42 Network**. I specialize in building robust server-side applications and system programming with a focus on clean, efficient code.
+
+```cpp
+class Developer {
+public:
+    std::string name = "Abdelbassat";
+    std::string school = "1337 (42 Network)";
+    std::string focus = "Backend Development";
+    std::vector<std::string> languages = {"C", "C++", "Python", "JavaScript"};
+    std::vector<std::string> interests = {"System Programming", "Backend APIs", "DevOps"};
+    
+    void code() {
+        while (learning) {
+            write_code();
+            solve_problems();
+            build_projects();
+            push_to_github();
+        }
+    }
+    
+    bool isPassionate() const { return true; }
+};
+```
 
 ---
 
@@ -41,9 +63,21 @@ I'm a passionate backend developer studying at **1337 School**, part of the pres
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xylar-99&theme=tokyonight&hide_border=true)
 
+</div>
+
+---
+
+## 🐍 Contribution Snake Game
+
+<div align="center">
+
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Xylar-99/Xylar-99/output/github-contribution-grid-snake.svg)
 
+**🎮 Nokia Snake Style - Eating commits like a classic game!** 
+
 **351 contributions in the last year** 🚀
+
+*Just like the classic Nokia 3310 snake game, but with GitHub commits!*
 
 </div>
 
